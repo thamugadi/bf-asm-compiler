@@ -1,3 +1,4 @@
 # bf-asm-compiler
 brainfuck -> assembly compiler
-linux only
+
+x64 linux only
